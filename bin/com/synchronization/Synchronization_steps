@@ -1,0 +1,8 @@
+**Thread Synchronization**
+There are two types of thread synchronization mutual exclusive and inter-thread communication.
+
+1)Mutual Exclusive
+	a)Synchronized method.
+	b)Synchronized block.
+	c)Static synchronization.
+2)Cooperation (Inter-thread communication in java)

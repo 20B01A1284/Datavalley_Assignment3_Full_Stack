@@ -1,0 +1,4 @@
+Abstraction can be achieved through implementing interface or extending abstract class.
+
+1) abstract class contains abstract and non abstract methods.
+2) interface contains all abstract methods only.
